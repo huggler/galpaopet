@@ -1,0 +1,9 @@
+{
+    "name": "slider-revolution",
+    "version": "4.3.7",
+	"main": [
+	"src/css/settings.css",
+	"src/js/jquery.themepunch.plugins.min.js",
+	"src/js/jquery.themepunch.revolution.js"
+	]
+}
